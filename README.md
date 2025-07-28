@@ -311,21 +311,6 @@ If you use this pipeline in your research, please cite:
 }
 ```
 
-### NWB Format Citation
-
-For the NWB format itself, please cite:
-
-```bibtex
-@article{yatsenko_datajoint_2022,
-  title={DataJoint: managing big scientific data using MATLAB or Python},
-  author={Yatsenko, Dimitri and Reimer, Jacob and Ecker, Alexander S and Walker, Edgar Y and Sinz, Fabian H and Berens, Philipp and Hoenselaar, Aki and Cotton, R James and Siapas, Athanassios G and Bethge, Matthias and others},
-  journal={eLife},
-  volume={11},
-  pages={e64389},
-  year={2022},
-  publisher={eLife Sciences Publications, Ltd}
-}
-```
 
 ---
 
