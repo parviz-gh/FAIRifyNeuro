@@ -306,7 +306,7 @@ If you use this pipeline in your research, please cite:
 @software{ghaderi_neural_nwb_pipeline_2025,
   title={Neural Data to NWB Conversion Pipeline},
   author={Ghaderi, Parviz},
-  year={2024},
+  year={2025},
   url={https://github.com/yourusername/FAIRifyNeuro}
 }
 ```
